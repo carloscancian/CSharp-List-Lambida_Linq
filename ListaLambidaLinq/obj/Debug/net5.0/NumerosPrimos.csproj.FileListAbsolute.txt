@@ -1,0 +1,16 @@
+/home/ccancian/Source/Repos/Algoritmos/NumerosPrimos/bin/Debug/net5.0/NumerosPrimos
+/home/ccancian/Source/Repos/Algoritmos/NumerosPrimos/bin/Debug/net5.0/NumerosPrimos.deps.json
+/home/ccancian/Source/Repos/Algoritmos/NumerosPrimos/bin/Debug/net5.0/NumerosPrimos.runtimeconfig.json
+/home/ccancian/Source/Repos/Algoritmos/NumerosPrimos/bin/Debug/net5.0/NumerosPrimos.runtimeconfig.dev.json
+/home/ccancian/Source/Repos/Algoritmos/NumerosPrimos/bin/Debug/net5.0/NumerosPrimos.dll
+/home/ccancian/Source/Repos/Algoritmos/NumerosPrimos/bin/Debug/net5.0/ref/NumerosPrimos.dll
+/home/ccancian/Source/Repos/Algoritmos/NumerosPrimos/bin/Debug/net5.0/NumerosPrimos.pdb
+/home/ccancian/Source/Repos/Algoritmos/NumerosPrimos/obj/Debug/net5.0/NumerosPrimos.csproj.AssemblyReference.cache
+/home/ccancian/Source/Repos/Algoritmos/NumerosPrimos/obj/Debug/net5.0/NumerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+/home/ccancian/Source/Repos/Algoritmos/NumerosPrimos/obj/Debug/net5.0/NumerosPrimos.AssemblyInfoInputs.cache
+/home/ccancian/Source/Repos/Algoritmos/NumerosPrimos/obj/Debug/net5.0/NumerosPrimos.AssemblyInfo.cs
+/home/ccancian/Source/Repos/Algoritmos/NumerosPrimos/obj/Debug/net5.0/NumerosPrimos.csproj.CoreCompileInputs.cache
+/home/ccancian/Source/Repos/Algoritmos/NumerosPrimos/obj/Debug/net5.0/NumerosPrimos.dll
+/home/ccancian/Source/Repos/Algoritmos/NumerosPrimos/obj/Debug/net5.0/ref/NumerosPrimos.dll
+/home/ccancian/Source/Repos/Algoritmos/NumerosPrimos/obj/Debug/net5.0/NumerosPrimos.pdb
+/home/ccancian/Source/Repos/Algoritmos/NumerosPrimos/obj/Debug/net5.0/NumerosPrimos.genruntimeconfig.cache
